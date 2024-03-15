@@ -413,3 +413,5 @@ var Text = function(game, x, y, text, align, font){
 Text.prototype = Object.create(Phaser.BitmapText.prototype);
 Text.prototype.constructor = Text;
 
+//test
+
